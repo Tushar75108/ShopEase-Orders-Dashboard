@@ -1,0 +1,9 @@
+# Custom Streamlit theme -- gives the dashboard a consistent, branded look
+# instead of the default plain theme. Colors are picked to match the
+# CATEGORY_COLORS palette used for charts in app.py.
+[theme]
+primaryColor = "#4C6EF5"
+backgroundColor = "#FFFFFF"
+secondaryBackgroundColor = "#F1F3F5"
+textColor = "#212529"
+font = "sans serif"
